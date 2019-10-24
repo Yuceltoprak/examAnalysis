@@ -156,4 +156,4 @@ int main() {
   Classroom c(30);
   c.yaz();
 }
-//tablo 1'e göre implement edildi. Sınıf mevcudu 30 ve üzeri olmalıdır.
+//tablo 1'e göre implement edildi.
